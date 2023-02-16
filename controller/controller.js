@@ -56,22 +56,7 @@ router.post("/post", async (req, res) => {
         }
 
     }
-    //  const last_month_data = new COLLECTION({
-    //         name: user_data[length-1].name,
-    //         assessmentMonth: user_data[length-1].assessmentMonth,
-    //         Gap: user_data[length-1].Gap,
-    //         improvement: user_data[length-1].improvement
-
-    //     })
-
-
-
-    //     try {
-    //         const aa2 = await last_month_data.save();
-    //         res.json(aa2);
-    //     } catch (err) {
-    //         console.log(err);
-    //     }
+   
 
 })
 
